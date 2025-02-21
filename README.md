@@ -32,11 +32,11 @@ To run this project, you need MATLAB installed on your system. Follow these step
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/solar-mirror-optimization.git
+   git clone https://github.com/shaowenfu/2023CUMC-Third-Prize-Provincial-Level-SolutionB.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd solar-mirror-optimization
+   cd 2023CUMC-Third-Prize-Provincial-Level-SolutionB
    ```
 
 ## Usage

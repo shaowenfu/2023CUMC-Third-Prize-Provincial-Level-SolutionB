@@ -32,11 +32,11 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/solar-mirror-optimization.git
+   git clone https://github.com/shaowenfu/2023CUMC-Third-Prize-Provincial-Level-SolutionB.git
    ```
 2. 进入项目目录：
    ```bash
-   cd solar-mirror-optimization
+   cd 2023CUMC-Third-Prize-Provincial-Level-SolutionB
    ```
 
 ## 使用
