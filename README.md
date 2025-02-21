@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README_zh.md">简体中文</a>
+</div>
+
 # Solar Mirror Optimization Project
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
