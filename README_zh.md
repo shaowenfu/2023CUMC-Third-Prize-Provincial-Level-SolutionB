@@ -48,6 +48,9 @@
    ```
 3. 在生成的Excel文件和图表中查看结果。
 
+## 贡献
+
+- [Gixyuan](https://github.com/Gixyuan)
 
 ## 许可证
 

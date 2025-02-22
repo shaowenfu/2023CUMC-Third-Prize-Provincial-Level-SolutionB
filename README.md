@@ -52,6 +52,10 @@ To run this project, you need MATLAB installed on your system. Follow these step
    ```
 3. View the results in the generated Excel files and plots.
 
+## Contributing
+
+- [Gixyuan](https://github.com/Gixyuan)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
