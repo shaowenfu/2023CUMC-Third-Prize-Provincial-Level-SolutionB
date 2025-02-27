@@ -55,6 +55,7 @@ To run this project, you need MATLAB installed on your system. Follow these step
 ## Contributing
 
 - [Gixyuan](https://github.com/Gixyuan)
+- [Sunxiaotian](https://github.com/sss12-22)
 
 ## License
 
